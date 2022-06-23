@@ -14,3 +14,20 @@ a {
 * {
   box-sizing: border-box;
 }
+
+main {
+  min-height: 100vh;
+}
+
+#rock-paper-globals {
+  background: radial-gradient(
+    134.34% 134.34% at 50% 0%,
+    #1f3757 0%,
+    #131537 100%
+  );
+  color: white;
+}
+
+#rock-paper-globals {
+  font-family: Barlow Semi Condensed;
+}
